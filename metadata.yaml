@@ -1,0 +1,39 @@
+_repo: Speranze-e-glorie--Le-tre-capitali--Torino-Firenze-Roma_19883
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De Amicis, Edmondo
+    aliases:
+    - Amichis, Edmondo de
+    - Amicis, Edmondo de
+    - Amicis, Edmundo de
+    birthdate: 1846
+    deathdate: 1908
+    gutenberg_agent_id: '7650'
+    url: http://www.gutenberg.org/2009/agents/7650
+    wikipedia: http://it.wikipedia.org/wiki/Edmondo_De_Amicis
+description: ''
+gutenberg_bookshelf: IT Scienze politiche
+gutenberg_issued: '2006-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19883'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cavallotti, Felice, 1842-1898'
+- !lcsh 'Socialism -- Italy -- History -- 19th century'
+- !lcsh 'Statesmen -- Italy -- Biography'
+- !lcsh 'Florence (Italy) -- Description and travel'
+- !lcsh 'Italy -- History -- 19th century'
+- !lcsh 'Turin (Italy) -- Description and travel'
+- !lcsh 'Rome (Italy) -- Description and travel'
+- !lcc 'DG'
+- !lcsh 'Garibaldi, Giuseppe, 1807-1882'
+title: 'Speranze e glorie; Le tre capitali: Torino, Firenze, Roma'
+url: http://www.gutenberg.org/ebooks/19883
